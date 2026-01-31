@@ -1,0 +1,160 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Summer 2026" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - link "Wyoming" [ref=e8] [cursor=pointer]:
+            - /url: /wyoming
+          - link "Montana" [ref=e9] [cursor=pointer]:
+            - /url: /montana
+    - main [ref=e10]:
+      - generic [ref=e11]:
+        - img "Montana landscape" [ref=e13]
+        - generic [ref=e15]:
+          - generic [ref=e16]: Bozeman, Livingston & Paradise Valley
+          - heading "Montana" [level=1] [ref=e17]
+      - generic [ref=e18]:
+        - heading "The Rivers You’ve Heard About" [level=2] [ref=e20]
+        - paragraph [ref=e22]: Montana wrote the playbook. The Madison. The Yellowstone. The Missouri. These rivers have been on magazine covers for decades because they deliver. Blue-ribbon trout water through valleys with snow-capped peaks and golden grass. More fish per mile than almost anywhere on earth. Yes, it’s more popular than Wyoming. But the rivers are vast, the guide scene is sharp, and the towns — Bozeman and Livingston — have the best food and bars in the Northern Rockies. This is the full experience, dialed in.
+      - generic [ref=e24]:
+        - generic [ref=e26]:
+          - img "Angler casting on glassy spring creek with Absaroka Range reflected" [ref=e27]
+          - generic [ref=e28]: DePuy Spring Creek — Paradise Valley
+        - generic [ref=e29]:
+          - generic [ref=e31]:
+            - img "Angler wading during Mother’s Day caddis hatch on the Yellowstone" [ref=e32]
+            - generic [ref=e33]: Mother’s Day caddis hatch — Yellowstone River
+          - generic [ref=e35]:
+            - img "Wade fishing the Lower Madison through Bear Trap Canyon boulders" [ref=e36]
+            - generic [ref=e37]: Bear Trap Canyon — Lower Madison
+          - generic [ref=e39]:
+            - img "Drift boat launch on DePuy Spring Creek with Absaroka peaks" [ref=e40]
+            - generic [ref=e41]: Spring creek access beneath the Absarokas
+          - generic [ref=e43]:
+            - img "Angler at alpine lake with pine forest and snow-capped peaks" [ref=e44]
+            - generic [ref=e45]: Montana backcountry stillwater
+      - generic [ref=e47]:
+        - generic [ref=e49]: The Rivers
+        - generic [ref=e50]:
+          - generic [ref=e52]:
+            - generic [ref=e53]: The Standard
+            - heading "Madison River" [level=3] [ref=e54]
+            - generic [ref=e55]: Freestone, wade & float
+            - paragraph [ref=e56]: Called "the fifty mile riffle" — continuous fishable water from Yellowstone to the Missouri headwaters. This is the river other Western streams get compared to. Consistent hatches May through October.
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - generic [ref=e59]: Density
+                - generic [ref=e60]: 4,000+ fish/mile
+              - generic [ref=e61]:
+                - generic [ref=e62]: Size
+                - generic [ref=e63]: 14–18" avg
+              - generic [ref=e64]:
+                - generic [ref=e65]: Method
+                - generic [ref=e66]: Wade & Float
+          - generic [ref=e68]:
+            - generic [ref=e69]: Paradise Valley
+            - heading "Yellowstone River" [level=3] [ref=e70]
+            - generic [ref=e71]: Freestone, float trip
+            - paragraph [ref=e72]: Longest undammed river in the lower 48. Float through ranch land with the Absaroka Range stacked behind it. Native cutthroat, browns, rainbows — all in the same drift.
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - generic [ref=e75]: Density
+                - generic [ref=e76]: 3,500+ fish/mile
+              - generic [ref=e77]:
+                - generic [ref=e78]: Size
+                - generic [ref=e79]: Cutthroat native species
+              - generic [ref=e80]:
+                - generic [ref=e81]: Method
+                - generic [ref=e82]: Float fishing
+          - generic [ref=e84]:
+            - generic [ref=e85]: Trophy Factory
+            - heading "Missouri River" [level=3] [ref=e86]
+            - generic [ref=e87]: Tailwater, float trip
+            - paragraph [ref=e88]: Most productive trout water in North America. Over 8,000 fish per mile. Not a typo. Ninety minutes from Bozeman, but for sheer numbers and size, nothing else comes close.
+            - generic [ref=e89]:
+              - generic [ref=e90]:
+                - generic [ref=e91]: Density
+                - generic [ref=e92]: 8,000+ fish/mile
+              - generic [ref=e93]:
+                - generic [ref=e94]: Size
+                - generic [ref=e95]: 16–22" trophy range
+              - generic [ref=e96]:
+                - generic [ref=e97]: Method
+                - generic [ref=e98]: Float fishing
+          - generic [ref=e100]:
+            - generic [ref=e101]: Quick Access
+            - heading "Gallatin River" [level=3] [ref=e102]
+            - generic [ref=e103]: Freestone, wade
+            - paragraph [ref=e104]: Runs along Highway 191 between Bozeman and Big Sky. Fish it on your way to dinner. Pocket water and riffles full of rainbows and browns that eat aggressively.
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - generic [ref=e107]: Density
+                - generic [ref=e108]: 2,500+ fish/mile
+              - generic [ref=e109]:
+                - generic [ref=e110]: Size
+                - generic [ref=e111]: 10–14" avg
+              - generic [ref=e112]:
+                - generic [ref=e113]: Method
+                - generic [ref=e114]: Wade fishing
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - generic [ref=e117]: After the Water
+          - heading "Bozeman & Livingston" [level=2] [ref=e118]
+        - paragraph [ref=e120]: Two towns, two speeds, 25 minutes apart. Bozeman is polished — a booming college town with walkable downtown, strong restaurants, and real energy. Livingston is the soul. A railroad town where the wind blows hard and the bars stay open late. Anthony Bourdain ranked the Murray Hotel in his top 10. Grittier, weirder, more Montana.
+        - generic [ref=e121]:
+          - generic [ref=e123]:
+            - generic [ref=e124]: Restaurant · Bozeman
+            - heading "Blackbird Kitchen" [level=4] [ref=e125]
+            - paragraph [ref=e126]: Wood-fired everything, local ingredients, food that actually surprises you.
+          - generic [ref=e128]:
+            - generic [ref=e129]: Hotel · Livingston
+            - heading "The Murray Hotel" [level=4] [ref=e130]
+            - paragraph [ref=e131]: 1904 railroad hotel, Bourdain-approved, guests from Calamity Jane to Sam Peckinpah.
+          - generic [ref=e133]:
+            - generic [ref=e134]: Bar · Livingston
+            - heading "The Murray Bar" [level=4] [ref=e135]
+            - paragraph [ref=e136]: Live music most nights, stiff pours, mix of ranchers, writers, and river guides.
+      - generic [ref=e138]:
+        - generic [ref=e140]: Logistics
+        - generic [ref=e141]:
+          - generic [ref=e143]:
+            - img [ref=e145]
+            - generic [ref=e147]:
+              - heading "Flights" [level=4] [ref=e148]
+              - paragraph [ref=e149]: United direct Denver to Bozeman (BZN), 1.5 hours.
+          - generic [ref=e151]:
+            - img [ref=e153]
+            - generic [ref=e157]:
+              - heading "Getting Around" [level=4] [ref=e158]
+              - paragraph [ref=e159]: Rental car essential. Bozeman to Livingston 25 min. Paradise Valley 30 min south. Missouri River 90 min north.
+          - generic [ref=e161]:
+            - img [ref=e163]
+            - generic [ref=e166]:
+              - heading "Where to Stay" [level=4] [ref=e167]
+              - paragraph [ref=e168]: The LARK (boutique, downtown Bozeman), Murray Hotel (historic Livingston), Kimpton Armory (upscale Bozeman).
+          - generic [ref=e170]:
+            - img [ref=e172]
+            - generic [ref=e174]:
+              - heading "Best Time" [level=4] [ref=e175]
+              - paragraph [ref=e176]: "Late June through July. Salmonfly hatch (early June) is famous but mobbed. Late June: hatches still strong, crowds gone."
+      - iframe [ref=e180]
+      - generic [ref=e181]:
+        - separator [ref=e182]
+        - generic [ref=e183]:
+          - generic [ref=e184]: Your Guide
+          - heading "Montana Angling Co." [level=3] [ref=e185]
+        - generic [ref=e186]:
+          - paragraph [ref=e187]: One of Bozeman’s top operations. Decades on every river in the region. Their guides know what’s fishing well this week, not just this season. Just as comfortable putting first-timers into fish on the Madison as running technical dry fly sessions on the Missouri. All gear provided.
+          - link "Visit Montana Angling Co." [ref=e188] [cursor=pointer]:
+            - /url: https://www.montanaangling.com
+            - text: Visit Montana Angling Co.
+            - img [ref=e189]
+        - generic [ref=e194]:
+          - generic [ref=e195]: Wade Trips
+          - generic [ref=e196]: Float Trips
+          - generic [ref=e197]: Multi-Day Packages
+          - generic [ref=e198]: Full Gear Provided
