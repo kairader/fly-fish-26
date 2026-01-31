@@ -1,0 +1,130 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Summer 2026" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - link "Wyoming" [ref=e8] [cursor=pointer]:
+            - /url: /wyoming
+          - link "Montana" [ref=e9] [cursor=pointer]:
+            - /url: /montana
+    - main [ref=e10]:
+      - generic [ref=e11]:
+        - img "Wyoming landscape" [ref=e13]
+        - generic [ref=e15]:
+          - generic [ref=e16]: Sheridan & The Bighorn Mountains
+          - heading "Wyoming" [level=1] [ref=e17]
+      - generic [ref=e18]:
+        - heading "The Wyoming Nobody Talks About" [level=2] [ref=e20]
+        - paragraph [ref=e22]: Wyoming means Yellowstone crowds and Jackson Hole prices to most people. But against the Bighorn Mountains, there’s a fly fishing scene that’s stayed off the radar. Sheridan still feels like the Old West — ranchers in pearl snaps, bars with taxidermy on the walls, a main street you can walk end to end in ten minutes. The fishing? Private water access, open meadows packed with eager trout, and the Bighorn River two hours south. This is fly fishing before it got curated for Instagram. Raw, uncrowded, loaded with fish.
+      - generic [ref=e24]:
+        - generic [ref=e26]:
+          - img "Alpine meadow with winding creek and snow-capped Bighorn peaks" [ref=e27]
+          - generic [ref=e28]: High country beneath Cloud Peak — Bighorn National Forest
+        - generic [ref=e29]:
+          - generic [ref=e31]:
+            - img "Two anglers fishing a creek below sandstone bluffs" [ref=e32]
+            - generic [ref=e33]: Private water on the South Tongue
+          - generic [ref=e35]:
+            - img "Drift boat on clear river with angler casting" [ref=e36]
+            - generic [ref=e37]: Float fishing the Bighorn River
+          - generic [ref=e39]:
+            - img "Fly Shop of the Bighorns storefront at dusk on Main Street" [ref=e40]
+            - generic [ref=e41]: Fly Shop of the Bighorns — downtown Sheridan
+          - generic [ref=e43]:
+            - img "Red hills and green valley with creek winding through open range" [ref=e44]
+            - generic [ref=e45]: Open range beneath the Bighorns
+      - generic [ref=e47]:
+        - generic [ref=e49]: The Rivers
+        - generic [ref=e50]:
+          - generic [ref=e52]:
+            - generic [ref=e53]: Beginner Friendly
+            - heading "South Tongue River" [level=3] [ref=e54]
+            - generic [ref=e55]: Freestone stream, private water available
+            - paragraph [ref=e56]: Open meadow sections with clear sight lines and forgiving casts. The Fly Shop of the Bighorns has private access to stretches that rarely see another angler. Room to learn, room to mess up, and fish that don’t know any better.
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - generic [ref=e59]: Density
+                - generic [ref=e60]: 12–16" avg trout
+              - generic [ref=e61]:
+                - generic [ref=e62]: Size
+                - generic [ref=e63]: Rainbow primary
+              - generic [ref=e64]:
+                - generic [ref=e65]: Method
+                - generic [ref=e66]: Wade fishing
+          - generic [ref=e68]:
+            - generic [ref=e69]: Trophy Water
+            - heading "Bighorn River" [level=3] [ref=e70]
+            - generic [ref=e71]: Tailwater, float trip
+            - paragraph [ref=e72]: One of the most productive trout rivers in North America. The stretch near Thermopolis cuts through red rock canyons, holding browns and rainbows averaging 16–20 inches. Less famous than the Montana section. Just as good. A fraction of the boats.
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - generic [ref=e75]: Density
+                - generic [ref=e76]: 3,000+ fish/mile
+              - generic [ref=e77]:
+                - generic [ref=e78]: Size
+                - generic [ref=e79]: 16–20" avg
+              - generic [ref=e80]:
+                - generic [ref=e81]: Method
+                - generic [ref=e82]: Float fishing
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - generic [ref=e85]: After the Water
+          - heading "Sheridan, Wyoming" [level=2] [ref=e86]
+        - paragraph [ref=e88]: "Sheridan isn’t trying to be anything. A working ranching town at 3,700 feet, backed by mountains, with brick storefronts, saddleries, and bars that have poured whiskey since Prohibition ended. After a day on the water: walk to dinner, hit a brewery, end up somewhere the locals actually drink. No velvet ropes. No $18 cocktails. Cold beer, good food, loud stories."
+        - generic [ref=e89]:
+          - generic [ref=e91]:
+            - generic [ref=e92]: Restaurant
+            - heading "Frackelton’s" [level=4] [ref=e93]
+            - paragraph [ref=e94]: Upscale Wyoming cooking in a restored historic building. Elk, bison, locally-sourced everything.
+          - generic [ref=e96]:
+            - generic [ref=e97]: Brewery
+            - heading "Luminous Brew House" [level=4] [ref=e98]
+            - paragraph [ref=e99]: Rotating taps, mountain views from the patio, zero pretense.
+          - generic [ref=e101]:
+            - generic [ref=e102]: Bar
+            - heading "The Mint Bar" [level=4] [ref=e103]
+            - paragraph [ref=e104]: Taxidermy on walls, bullet hole in the mirror, Waylon on the jukebox. Cash only.
+      - generic [ref=e106]:
+        - generic [ref=e108]: Logistics
+        - generic [ref=e109]:
+          - generic [ref=e111]:
+            - img [ref=e113]
+            - generic [ref=e115]:
+              - heading "Flights" [level=4] [ref=e116]
+              - paragraph [ref=e117]: United direct Denver to Sheridan (SHR), 1.5 hours.
+          - generic [ref=e119]:
+            - img [ref=e121]
+            - generic [ref=e125]:
+              - heading "Getting Around" [level=4] [ref=e126]
+              - paragraph [ref=e127]: Rental car required. Bighorn River is ~2 hours south.
+          - generic [ref=e129]:
+            - img [ref=e131]
+            - generic [ref=e134]:
+              - heading "Where to Stay" [level=4] [ref=e135]
+              - paragraph [ref=e136]: Historic Sheridan Inn (character, Buffalo Bill history) or Mill Inn (affordable, breakfast included).
+          - generic [ref=e138]:
+            - img [ref=e140]
+            - generic [ref=e142]:
+              - heading "Best Time" [level=4] [ref=e143]
+              - paragraph [ref=e144]: Late June through July. Runoff done, hatches firing (PMDs, caddis, terrestrials), warm enough to wet wade.
+      - iframe [ref=e148]
+      - generic [ref=e149]:
+        - separator [ref=e150]
+        - generic [ref=e151]:
+          - generic [ref=e152]: Your Guide
+          - heading "Fly Shop of the Bighorns" [level=3] [ref=e153]
+        - generic [ref=e154]:
+          - paragraph [ref=e155]: "The outfitter in Sheridan. Guides who’ve fished these waters their whole lives. They have something rare: private access on the South Tongue and surrounding creeks. Beginners get room to learn without an audience. Experienced anglers get water that hasn’t seen a fly in weeks. All gear provided — rods, reels, flies."
+          - link "Visit Fly Shop of the Bighorns" [ref=e156] [cursor=pointer]:
+            - /url: https://flyshopofthebighorns.com
+            - text: Visit Fly Shop of the Bighorns
+            - img [ref=e157]
+        - generic [ref=e162]:
+          - generic [ref=e163]: Private Water Access
+          - generic [ref=e164]: Wade Trips
+          - generic [ref=e165]: Float Trips
+          - generic [ref=e166]: Full Gear Provided
